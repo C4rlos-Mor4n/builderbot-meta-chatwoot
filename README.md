@@ -2,7 +2,7 @@
   <a href="https://github.com/C4rlos-Mor4n">
     <picture>
       <img src="https://avatars.githubusercontent.com/u/23416667?s=280&v=4" height="80" style="border-radius: 50%;">
-            <img src="https://builderbot.vercel.app/assets/thumbnail-vector.png" height="80">
+      <img src="https://builderbot.vercel.app/assets/thumbnail-vector.png" height="80" style="border-radius: 50%;">
     </picture>
     <h2 align="center">BuilderBot + Chatwoot Integration</h2>
 
