@@ -1,0 +1,1 @@
+export { handlerMessage } from "./Chatwoot";
